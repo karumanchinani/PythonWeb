@@ -32,6 +32,3 @@ Thank you for considering contributing to this small python project! For contrib
 ## Security Vulnerabilities
 If you discover a vulnerability or bugs within this project, please send an e-mail to Akinshola Samuel via [karumanchinani00@gmail.com](mailto:karumanchinani00@gmail.com). All bugs and vulnerabilities will be promptly addressed.
 
-
-## License
-The PyShop Project is free open-sourced project, yet to be licensed under the [MIT license](https://opensource.org/licenses/MIT).
